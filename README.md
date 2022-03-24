@@ -1,6 +1,6 @@
 ### DietProgram
 
-This is a `JavaScript` program to schedule a diet for every week in a period.
+This is a `JavaScript` program to schedule a diet for every days of a week in a period.
 
 
 ### Languages and Dependencies
