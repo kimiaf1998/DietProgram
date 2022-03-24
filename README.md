@@ -5,13 +5,16 @@ This is a `JavaScript` program to schedule a diet for every days of a week in a 
 
 ### Main features
 
-* Flexible row appending
+* Flexible row appending: 
+
   All the correct indexes are assigned to the rows just after the form submitted
 
-* Auto calculate Calories
+* Auto calculate Calories:
+
   By changing the food item or the value of weight input , the calorie is automatically calculated and the value is shown
 
-* Toggled titles
+* Toggled titles:
+
   Day titles can be changed to weekdays or sequential numbers and that affects the titles of the result program
 
 
