@@ -3,20 +3,31 @@
 This is a `JavaScript` program to schedule a diet for every days of a week in a period.
 
 
+### Main features
+
+* Flexible row appending
+  All the correct indexes are assigned to the rows just after the form submitted
+
+* Auto calculate Calories
+  By changing the food item or the value of weight input , the calorie is automatically calculated and the value is shown
+
+* Toggled titles
+  Day titles can be changed to weekdays or sequential numbers and that affects the titles of the result program
+
+
 ### Languages and Dependencies
 * HTML5
 * CSS3
-* JavaScript ES6
-* Bootstrap5
+* JavaScript
+* Bootstrap
 * jQuery
-* Popper.js
 
 
 ### How to Run
 
 * Open the HTML file on your browser
 * Enter body builder's information
-* Enter program diet by adding rows in each day
+* Enter program items by adding rows to each day
 * Switch the right button to change the represented days label
 
 ### Output
